@@ -8,6 +8,9 @@ dependencies = [
     "autogen-agentchat>=0.7.4",
     "autogen-core>=0.7.4",
     "autogen-ext>=0.7.4",
+    "ollama>=0.5.3",
+    "openai>=1.101.0",
     "python-dotenv>=1.1.1",
+    "tiktoken>=0.11.0",
     "typing-extensions>=4.14.1",
 ]

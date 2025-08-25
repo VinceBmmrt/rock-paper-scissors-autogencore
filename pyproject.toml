@@ -1,0 +1,13 @@
+[project]
+name = "rock-paper-scissors-autogencore"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "autogen-agentchat>=0.7.4",
+    "autogen-core>=0.7.4",
+    "autogen-ext>=0.7.4",
+    "python-dotenv>=1.1.1",
+    "typing-extensions>=4.14.1",
+]
